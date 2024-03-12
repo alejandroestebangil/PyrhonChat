@@ -4,7 +4,7 @@
 - Simple Python Chat using Socket and Threading.
 - Chat Simple en Python usando Sockey y Threading.
 
-##Commands
+## Commands
 
 - /help: Displays all available commands.
 - /list: Shows the list of people connected to the server and the list of created channels.
