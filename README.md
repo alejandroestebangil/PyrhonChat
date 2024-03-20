@@ -2,7 +2,7 @@
 ## Welcome!
 
 - Simple Python Chat using Socket and Threading.
-- Chat Simple en Python usando Sockey y Threading.
+- Chat Simple en Python usando Socket y Threading.
 
 ## Commands
 
